@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T10:07:06.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="DhUSvMrKDggLf6YyFIlQ" version="16.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-24T04:03:17.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="4mxBNlbzzY0sbLn_Otxf" version="16.2.7" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="miracast">
-    <mxGraphModel dx="1673" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -210,7 +210,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L5_SfHMchHdEU2mdU9Gc-60" value="MediaRouter" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="31" width="100" height="909" as="geometry" />
+          <mxGeometry x="1080" y="31" width="100" height="889" as="geometry" />
         </mxCell>
         <mxCell id="L5_SfHMchHdEU2mdU9Gc-62" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="L5_SfHMchHdEU2mdU9Gc-60">
           <mxGeometry x="45" y="140" width="10" height="33" as="geometry" />
@@ -291,7 +291,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L5_SfHMchHdEU2mdU9Gc-83" value="CastService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="930" y="31" width="100" height="919" as="geometry" />
+          <mxGeometry x="930" y="31" width="100" height="889" as="geometry" />
         </mxCell>
         <mxCell id="L5_SfHMchHdEU2mdU9Gc-84" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="L5_SfHMchHdEU2mdU9Gc-83">
           <mxGeometry x="45" y="140" width="10" height="33" as="geometry" />
@@ -368,7 +368,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L5_SfHMchHdEU2mdU9Gc-97" value="DisplayManager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1530" y="31" width="100" height="919" as="geometry" />
+          <mxGeometry x="1530" y="31" width="100" height="889" as="geometry" />
         </mxCell>
         <mxCell id="L5_SfHMchHdEU2mdU9Gc-99" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="L5_SfHMchHdEU2mdU9Gc-97">
           <mxGeometry x="45" y="510" width="10" height="33" as="geometry" />
@@ -477,7 +477,7 @@
           <mxGeometry x="2020" y="237" width="695" height="150" as="geometry" />
         </mxCell>
         <mxCell id="XjbFzci83kuMNb4N5Gru-3" value="LelinkSourceSDK" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="Y4Mjrn0-gTD6p8KW61YH-1">
-          <mxGeometry x="2170" y="41" width="100" height="839" as="geometry" />
+          <mxGeometry x="2170" y="41" width="100" height="799" as="geometry" />
         </mxCell>
         <mxCell id="XjbFzci83kuMNb4N5Gru-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="XjbFzci83kuMNb4N5Gru-3">
           <mxGeometry x="45" y="79" width="10" height="61" as="geometry" />
@@ -530,7 +530,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XjbFzci83kuMNb4N5Gru-17" value="CastService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="Y4Mjrn0-gTD6p8KW61YH-1">
-          <mxGeometry x="2030" y="41" width="100" height="839" as="geometry" />
+          <mxGeometry x="2030" y="41" width="100" height="799" as="geometry" />
         </mxCell>
         <mxCell id="XjbFzci83kuMNb4N5Gru-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="XjbFzci83kuMNb4N5Gru-17">
           <mxGeometry x="45" y="77" width="10" height="63" as="geometry" />
@@ -780,7 +780,7 @@
         <mxCell id="Pc90IbCt2I2om_eswVBP-2" value="+ startCast(MirrorCastDevice) //乐播投屏码使用此接口" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;" vertex="1" parent="Vqn347-DYL4cSj1kS-3k-0">
           <mxGeometry y="268" width="300" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3wUrP_-0Pr_ePV529FFM-0" value="+ stopCast()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;" vertex="1" parent="Vqn347-DYL4cSj1kS-3k-0">
+        <mxCell id="3wUrP_-0Pr_ePV529FFM-0" value="+ stopCast(MirrorCastDevice)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;" vertex="1" parent="Vqn347-DYL4cSj1kS-3k-0">
           <mxGeometry y="294" width="300" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ABAqp1--NsHGpJL8lwWx-0" value="+ getActiveCastDevice()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;" vertex="1" parent="Vqn347-DYL4cSj1kS-3k-0">
