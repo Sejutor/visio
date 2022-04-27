@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T06:41:02.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="GNwCtbP2B2xlBedNnN7g" version="17.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-27T14:26:43.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="kWL-iOAz4OrxA6Efrdn7" version="17.4.5" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="miracast">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -734,7 +734,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4U7LE2K1LQOC5Br9dQs4" name="VR">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tOI2b8KZBOaDKnduwcew-0" />
         <mxCell id="tOI2b8KZBOaDKnduwcew-1" parent="tOI2b8KZBOaDKnduwcew-0" />
@@ -1097,7 +1097,7 @@
           <mxGeometry x="519" y="629" width="290" height="520" as="geometry" />
         </mxCell>
         <mxCell id="bVnXh2hmI-6nwGWYNO2y-69" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;&amp;nbsp; &quot;castdevice&quot;:&amp;nbsp; {&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;name&quot;: &quot;oppo tv&quot;,&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;alice&quot;: &quot;ar tv&quot;,&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;type&quot;: &quot;1&quot;,&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;mac&quot;: &quot;mac address for miracast&quot;,&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;ip&quot;: &quot;ip address for lebo&quot;,&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;port&quot;:&quot;port of ip address for lebo&quot;,&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;uid&quot;: &quot;uid for lebo&quot;,&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;pincode&quot;: &quot;pincode for lebo&quot;,&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;available&quot;: &quot;can be connected&quot;,&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;connectstatus&quot;: &quot;connect status&quot;,&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;remembered&quot;: &quot;remembered by miracast&quot;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box ; width: 100% ; padding: 2px&quot;&gt;}&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;dashed=1;" parent="tOI2b8KZBOaDKnduwcew-1" vertex="1">
-          <mxGeometry x="209" y="888" width="290" height="261" as="geometry" />
+          <mxGeometry x="205" y="884" width="290" height="261" as="geometry" />
         </mxCell>
         <mxCell id="F13QtduTBq_u6SeNiFh0-2" value="CastDeviceType" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;dashed=1;" parent="tOI2b8KZBOaDKnduwcew-1" vertex="1">
           <mxGeometry x="210" y="543" width="140" height="104" as="geometry" />
